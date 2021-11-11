@@ -5,8 +5,11 @@ Tutorial:
 
 https://mp.weixin.qq.com/s/RL1oojowzv3eKma3Bw-eBQ
 
-QQ群
-313308215
+QQ Group:
+
+521288080
+
+313308215(满)
 
 微信公众号
 Xamarin Library
